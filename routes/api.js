@@ -1,3 +1,9 @@
+/**
+ * #######################################################
+ *  American / British English Translator - 2024-10-21
+ * #######################################################
+ */
+
 'use strict';
 
 const Translator = require('../components/translator.js');

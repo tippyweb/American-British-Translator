@@ -1,3 +1,9 @@
+/**
+ * #######################################################
+ *  American / British English Translator - 2024-10-21
+ * #######################################################
+ */
+
 const chai = require('chai');
 const chaiHttp = require('chai-http');
 const assert = chai.assert;

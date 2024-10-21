@@ -1,3 +1,9 @@
+/**
+ * #######################################################
+ *  American / British English Translator - 2024-10-21
+ * #######################################################
+ */
+
 const americanOnly = require('./american-only.js');
 const americanToBritishSpelling = require('./american-to-british-spelling.js');
 const americanToBritishTitles = require('./american-to-british-titles.js');
